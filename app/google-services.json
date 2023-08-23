@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045430607801",
+    "project_id": "animechan-43592",
+    "storage_bucket": "animechan-43592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045430607801:android:baf817df26a2f7425b6068",
+        "android_client_info": {
+          "package_name": "com.ang.ec4angel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045430607801-ak3d1dvdeeiua200b1hejavptb5mspr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHahlyo8yz-UCQJAAWjHJDtNXKrGZuPdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045430607801-1589khi09v4esqahchcvt96ua88rcm1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

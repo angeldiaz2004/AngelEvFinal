@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EC4Angel</string>
+    <string name="login">Login</string>
+    <string name="ingrese_correo">Ingrese correo...</string>
+    <string name="ingrese_contrase_a">Ingrese contraseña...</string>
+    <string name="ingresar">Ingresar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listado">Listado</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="firebase">Firebase</string>
+    <string name="config">Config.</string>
+
+    <string name="web_client_id">1:1045430607801:android:baf817df26a2f7425b6068</string>
+</resources>

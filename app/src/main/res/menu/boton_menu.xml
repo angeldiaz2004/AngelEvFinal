@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/api"
+        android:icon="@drawable/lista"
+        android:title="@string/listado" />
+    <item
+        android:id="@+id/favoritos"
+        android:icon="@drawable/favoritos"
+        android:title="@string/favoritos" />
+    <item
+        android:id="@+id/firebase"
+        android:icon="@drawable/firebase"
+        android:title="@string/firebase" />
+
+    <item
+        android:id="@+id/config"
+        android:icon="@drawable/config"
+        android:title="@string/config" />
+</menu>
